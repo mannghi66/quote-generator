@@ -172,6 +172,9 @@ const App: React.FC = () => {
       </footer>
     </div>
   );
+
+<script type></script>
+
 };
 
 export default App;
