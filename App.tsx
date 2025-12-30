@@ -32,7 +32,6 @@ const App: React.FC = () => {
   };
 
   const handleDownload = () => {
-    // Simple mock download - in a real app we'd use html2canvas
     alert("In a full production environment, this would download your aesthetic quote as an image! ✨");
   };
 
@@ -172,9 +171,6 @@ const App: React.FC = () => {
       </footer>
     </div>
   );
-
-<script type></script>
-
 };
 
 export default App;
